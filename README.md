@@ -1,3 +1,5 @@
+Link project on Github: https://github.com/trihieuvo/8_puzzle_solver.git
+
 # 🧩 Giải 8-Puzzle với Pygame và Các Thuật Toán Tìm Kiếm
 
 Một ứng dụng desktop được xây dựng bằng Pygame để mô phỏng và giải bài toán 8-puzzle sử dụng nhiều thuật toán tìm kiếm khác nhau, bao gồm cả các thuật toán cơ bản và nâng cao, cũng như các biến thể ứng dụng khái niệm And-Or Tree cho phép "di chuyển kép".
